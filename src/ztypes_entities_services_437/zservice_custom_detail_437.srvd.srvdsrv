@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition Custom Detail'
+define service zservice_custom_detail_437 {
+  expose ZCDS_CUSTOM_DETAIL_437 as CustomDetail;
+}

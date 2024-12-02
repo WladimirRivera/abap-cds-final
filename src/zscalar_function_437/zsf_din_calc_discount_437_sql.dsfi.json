@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Scalar Function Implementation - Dinamic Real Flight price",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "scalarFunctionName": "ZSF_DIN_CALC_DISCOUNT_437",
+  "engine": "sqlEngine",
+  "sqlProperties": {
+    "amdpReference": "zcl_calc_discount_437=>get_real_price",
+    "autoExposedInSqlServices": false
+  }
+}

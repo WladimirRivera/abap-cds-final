@@ -1,0 +1,3 @@
+define view entity buffer on zcds_customer_buffer_437
+  layer industry
+  type none

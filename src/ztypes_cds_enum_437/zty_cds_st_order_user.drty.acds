@@ -1,0 +1,2 @@
+@EndUserText.label: 'Type - CDS Type sale status'
+define type zty_cds_st_order_user : abap.char(10)
